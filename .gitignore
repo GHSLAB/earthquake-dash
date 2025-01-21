@@ -171,3 +171,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 data/中国_省.geojson
+api.toml
